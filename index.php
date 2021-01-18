@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Meu portfolio</title>
+<title>Portfolio de viagem</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -12,7 +12,7 @@
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">JANE DOE</h1>
     <h5 class="w3-hide-large" style="white-space:nowrap">JANE DOE</h5>
-    <h3 class="w3-hide-medium w3-hide-small">Meu álbum de viagem</h3>
+    <h3 class="w3-hide-medium w3-hide-small">Destinos inesperados</h3>
   </div>
   
   <!-- Navbar (placed at the bottom of the header image) -->
@@ -45,7 +45,7 @@
   <div class="w3-light-grey w3-padding-large w3-padding-32 w3-margin-top" id="contact">
     <h3 class="w3-center">Contact</h3>
     <hr>
-    <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus.</p>
+    <p>Encontre o melhor lugar para seu momento atual de vida. Perto da natureza e paisagens incríveis.</p>
 
     <form action="/action_page.php" target="_blank">
       <div class="w3-section">
